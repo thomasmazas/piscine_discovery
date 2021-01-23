@@ -1,0 +1,17 @@
+header{
+    background-color: pink;
+text-align: center;
+    font-family: 'Trebuchet MS';
+    color:#EE82EE;
+}
+#texte1 {
+    font-weight: 900;
+    font-size: xx-large ;
+    }
+#texte2 {
+    font-size: medium;
+    font-weight: bold;
+ }
+.myfont {
+    color: indigo;
+}

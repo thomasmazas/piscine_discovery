@@ -1,0 +1,17 @@
+header{
+    background-color: pink;
+text-align: center;
+}
+#texte1 {
+    font-weight: 900;
+    font-size: xx-large ;
+    color: white;
+}
+#texte2 {
+    font-size: medium;
+    font-weight: bold;
+    color: green
+}
+.myfont {
+    color: indigo;
+}

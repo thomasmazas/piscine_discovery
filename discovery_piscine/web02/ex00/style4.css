@@ -1,0 +1,58 @@
+header{
+    background-color: pink;
+text-align: center;
+    font-family: 'Trebuchet MS';
+    color: #9400D3;
+}
+
+body {
+    background-color: pink;
+}
+
+#texte1 {
+    font-weight: 900;
+    font-size: xx-large ;
+    }
+#texte2 {
+    font-size: medium;
+    font-weight: bold;
+ }
+.myfont {
+    color: indigo;
+}
+.image  {
+    border-style: dotted;
+    border-color: white;
+    border-width: thick;
+    border-radius: 300px;
+    width: 700px;
+    height: auto;
+}
+
+.foot {
+    background-color: seagreen;
+    color: white;
+}
+
+#gauche {
+    background-color: green;
+    display: inline-block;
+    block-size: 535px;
+    width: 400px;
+    line-height: 350px;
+}
+
+#ruby {
+    text-align: center;
+    color: red
+}
+
+#right {
+    background-color: #D761E1; 
+    display: inline-block; }
+
+footer {
+    bottom: 0;
+margin-top:300px;
+text-align: center;
+}
